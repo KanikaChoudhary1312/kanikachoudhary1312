@@ -40,7 +40,12 @@ I specialize in building **Agentic AI solutions, cloud-native applications, and 
 ### 📊 GitHub Stats
 
 ![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikachoudhary1312&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com?user=kanikachoudhary1312&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanikachoudhary1312&repo=aicrew_04&theme=radical)](https://github.com/kanikachoudhary1312/aicrew_04)
+
+
+
 
 ---
 
