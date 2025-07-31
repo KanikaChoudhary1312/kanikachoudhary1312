@@ -37,18 +37,6 @@ I specialize in building **Agentic AI solutions, cloud-native applications, and 
 
 ---
 
-### 📊 GitHub Stats
-
-![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikachoudhary1312&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=kanikachoudhary1312&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanikachoudhary1312&repo=aicrew_04&theme=radical)](https://github.com/kanikachoudhary1312/aicrew_04)
-
-
-
-
----
-
 ### 💬 Ask me about
 - Cloud Architecture (**Azure / AWS / GCP**)  
 - **Generative AI & Multi-Agent Solutions**  
@@ -58,3 +46,16 @@ I specialize in building **Agentic AI solutions, cloud-native applications, and 
 
 ### ⚡ Fun fact
 I love turning **complex business problems** into **elegant cloud + AI solutions** and experimenting with **cutting-edge AI frameworks** in my free time!  
+
+---
+
+### 📊 GitHub Stats
+
+![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikachoudhary1312&show_icons=true&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com?user=kanikachoudhary1312&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanikachoudhary1312&repo=aicrew_04&theme=radical)](https://github.com/kanikachoudhary1312/aicrew_04)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical) 
+
+
+
+
