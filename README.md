@@ -37,15 +37,6 @@ I love turning **complex business problems** into **elegant cloud + AI solutions
 
 ---
 
-### 📊 GitHub Stats
-
-![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikachoudhary1312&show_icons=true&theme=radical) 
-![GitHub Streak](https://streak-stats.demolab.com?user=kanikachoudhary1312&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanikachoudhary1312&repo=aicrew_04&theme=radical)](https://github.com/kanikachoudhary1312/aicrew_04)
-
-
 ### 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-choudhary-85a00434/)
@@ -54,5 +45,13 @@ I love turning **complex business problems** into **elegant cloud + AI solutions
 📧 Reach me at: **kanikachoudhary13@gmail.com**  
 📸 I love capturing **art, culture, and nature photography** – check out my Instagram!  
 🌐 Explore my projects and experiments right here on **GitHub**
+
+---
+
+### 📊 GitHub Stats
+
+![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanikachoudhary1312&show_icons=true&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com?user=kanikachoudhary1312&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikachoudhary1312&layout=compact&theme=radical) 
 
 
