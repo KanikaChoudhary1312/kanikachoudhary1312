@@ -28,20 +28,11 @@ I specialize in building **cloud-native applications, full-stack web & mobile ap
 
 ---
 
-### 👯 I’m looking to collaborate on
-- **Innovative full-stack and mobile apps** 
-- **AI-driven enterprise solutions**  
-- **Open-source cloud & AI projects**  
-
----
-
 ### ⚡ Fun Facts About Me
-I love turning **complex business problems** into **elegant cloud + AI solutions** and experimenting with **cutting-edge AI frameworks** in my free time!  
-From architecting enterprise solutions to building **agentic AI workflows** for fun, I love making **tech innovative yet enjoyable**. 🚀
+I love turning **complex business problems** into **elegant cloud + AI solutions** and experimenting with **cutting-edge AI frameworks** in my free time! From architecting enterprise solutions to building **agentic AI workflows** for fun, I love making **tech innovative yet enjoyable**. 🚀
 
 - 💡 I often **prototype tech/AI tools** to simplify everyday work (and sneak in a little fun 🤫)  
-- 🎨 Can turn **AI responses into Canva presentations** in minutes  
-- 🌍 Dreaming of building a **global AI agent marketplace** someday  
+- 🎨 Can turn **AI responses into Canva presentations** in minutes    
 - 🎵 **Music + Coding = Flow State** 🎧  
 
 ---
