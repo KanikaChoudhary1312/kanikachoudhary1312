@@ -1,51 +1,55 @@
 ## Hi there 👋 I'm Kanika  
 
-💻 **Cloud Architect | AI Innovator | Full Stack Developer**  
+💻 **Cloud Architect | Full Stack Developer | Gen AI | Agentic AI**  
 
 I’m a **passionate developer** and **professional cloud architect** with hands-on experience in **Microsoft Azure, AWS, and GCP**.  
-I specialize in building **Agentic AI solutions, cloud-native applications, and full-stack web & mobile apps** that align with real-world business needs.  
+I specialize in building **cloud-native applications, full-stack web & mobile apps and Agentic AI solutions (langgraph/autogen/sematic kernel/graph rag)** that align with real-world business needs.  
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kanika-choudhary-85a00434/)  
+- 📧 Reach me at: **youremail@example.com**  
+- 📸 I love capturing **art, culture, and nature photography** – check out my shots on [Instagram](https://www.instagram.com/kanikaphotoshoot)  
+- 🌐 Explore my projects and experiments right here on **GitHub**  
 
 ---
 
 ### 🚀 Tech & Skills
 
-- ☁️ **Cloud Platforms:** Azure | AWS | GCP  
-- 🤖 **AI & ML:** Generative AI, Agentic AI, LangGraph, Semantic Kernel, Autogen  
+- ☁️ **Cloud Platforms:** Azure | AWS | GC
+- 🤖 **AI & ML:** Generative AI, Agentic AI, LangGraph, Semantic Kernel, Autogen, Graph RAG 
 - 💻 **Full Stack Development:** Python | .NET | React | Angular  
 - 📱 **Web & Mobile Development:** React Native (Expo) | Flutter | Django | FastAPI  
-- ⚡ **Other Skills:** RAG pipelines, FinOps for AI, Cloud-native Architecture  
+- ⚡ **Other Skills:**  Cloud-native Architecture, RAG pipelines, FinOps for AI  
 
 ---
 
 ### 🔭 I’m currently working on
-- Building **Agentic AI workflows** with multi-agent collaboration  
-- **Cloud-native architectures** for enterprise solutions  
-- **Intelligent web & mobile applications** leveraging Gen AI  
-
----
-
-### 🌱 I’m currently learning
-- **Advanced FinOps & AI cost optimization**  
-- **Scaling multi-agent AI frameworks in production**  
+ 
+- **Cloud-native architectures** for enterprise solutions
+- **Intelligent AI Led web & mobile applications** leveraging Gen AI (Azure Open AI)
+- Building **Agentic AI Frameworks**: With integrations to LangGraph, AutoGen, Semantic Kernel 
+- **FinOps AI Monitor**: Track token spend, optimize multi-agent workflows  
+- **Smart Document Pipelines**: Auto-generate reports, presentations & translations  
+- **Innovative User Journeys**: Making AI tools intuitive & fun/useful for end-users
 
 ---
 
 ### 👯 I’m looking to collaborate on
+- **Innovative full-stack and mobile apps** 
 - **AI-driven enterprise solutions**  
 - **Open-source cloud & AI projects**  
-- **Innovative full-stack and mobile apps**  
 
 ---
 
-### 💬 Ask me about
-- Cloud Architecture (**Azure / AWS / GCP**)  
-- **Generative AI & Multi-Agent Solutions**  
-- **Full Stack & Mobile Development**  
-
----
-
-### ⚡ Fun fact
+### ⚡ Fun Facts About Me
 I love turning **complex business problems** into **elegant cloud + AI solutions** and experimenting with **cutting-edge AI frameworks** in my free time!  
+From architecting enterprise solutions to building **agentic AI workflows** for fun, I love making **tech innovative yet enjoyable**. 🚀
+
+- 💡 I often **prototype tech/AI tools** to simplify everyday work (and sneak in a little fun 🤫)  
+- 🎨 Can turn **AI responses into Canva presentations** in minutes  
+- 🌍 Dreaming of building a **global AI agent marketplace** someday  
+- 🎵 **Music + Coding = Flow State** 🎧  
 
 ---
 
