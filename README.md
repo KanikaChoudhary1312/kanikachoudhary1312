@@ -5,13 +5,6 @@
 I’m a **passionate developer** and **professional cloud architect** with hands-on experience in **Microsoft Azure, AWS, and GCP**.  
 I specialize in building **cloud-native applications, full-stack web & mobile apps and Agentic AI solutions (langgraph/autogen/sematic kernel/graph rag)** that align with real-world business needs.  
 
-### 🤝 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/kanika-choudhary-85a00434/)  
-- 📧 Reach me at: **youremail@example.com**  
-- 📸 I love capturing **art, culture, and nature photography** – check out my shots on [Instagram](https://www.instagram.com/kanikaphotoshoot)  
-- 🌐 Explore my projects and experiments right here on **GitHub**  
-
 ---
 
 ### 🚀 Tech & Skills
@@ -62,5 +55,13 @@ From architecting enterprise solutions to building **agentic AI workflows** for 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanikachoudhary1312&repo=aicrew_04&theme=radical)](https://github.com/kanikachoudhary1312/aicrew_04)
 
 
+### 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanika-choudhary-85a00434/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiee_13/)
+
+📧 Reach me at: **kanikachoudhary13@gmail.com**  
+📸 I love capturing **art, culture, and nature photography** – check out my Instagram!  
+🌐 Explore my projects and experiments right here on **GitHub**
 
 
